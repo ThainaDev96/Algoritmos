@@ -1,2 +1,2 @@
 # Algoritmos
-Aulas da disciplina de Algoritmos, linguagem C
+Aulas da disciplina de Algoritmos
